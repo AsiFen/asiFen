@@ -43,7 +43,7 @@ I am a professional full-stack developer passionate about utilizing technology t
 
 ## Projects
 
-Here are a few projects where I've applied these skills:
+Here are a few projects where I have applied these skills:
 
 1. [Med-Scan-App](https://github.com/Yamisa11/Med-Scan-App)
    - Description: With our app, you can effortlessly scan pharmaceutical products, instantly view essential information like side effects, usages, allergens, and precautions. It also allows users to save scanned items for future reference, ensuring easy access to their selected items. Stay informed about your medications and simplify your healthcare management with the ability to scan new items whenever needed. Your one-stop solution for pharmaceutical product information and organization.
