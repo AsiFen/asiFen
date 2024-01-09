@@ -15,10 +15,13 @@ I am a professional full-stack developer passionate about utilizing technology t
 - **LinkedIn:** [Asisipho Fente](https://www.linkedin.com/in/asisiphofente/)
 
 ### Education
+- **Fullstack Web Developer**
+   - *Project codeX*
+   - *2023*
 
 - **Bachelor of Information Systems**
   - *University of Cape Town*
-  - *2018 - 2021 (Expected)*
+  - *2018 - 2021 (incomplete)*
 
 ## Skills
 
